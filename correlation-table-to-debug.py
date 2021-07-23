@@ -1,7 +1,3 @@
-#first you must have a flat bigquery events table, how do you do it? check this tutorials:
-  #https://firebase.google.com/docs/projects/bigquery-export
-  #https://www.ga4bigquery.com/tutorial-how-to-flatten-the-ga4-bigquery-export-schema-for-relational-databases-using-unnest/
-
 #Import libraries 
   import pydata_google_auth
   from google.cloud import bigquery
